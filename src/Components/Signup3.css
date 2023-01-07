@@ -1,0 +1,31 @@
+
+.mkoijnbg{
+    border: 1px solid gray;
+    display: flex;
+    width: 300px;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+}
+.flexceryj{
+    display: flex;
+    flex-wrap: wrap;
+}
+.nouijnvf{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.bhuytfv{
+    border: 1px solid gray;
+    padding: 10px 10px;
+}
+.bhuytfv::selection{
+    border: 1px solid gray;
+
+}
+.vbnhgtrr{
+flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+}
